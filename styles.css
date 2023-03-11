@@ -1,0 +1,43 @@
+body {
+  margin-top: 3vh;
+  background-color: white;
+  overflow-x: hidden;
+}
+
+.underline {
+  border-top-style: solid;
+  width: 15vw;
+  color: skyblue;
+}
+
+.underline-2 {
+  border-top-style: solid;
+  width: 18vw;
+  color: skyblue;
+}
+
+.about {
+  font-size: 1.2em;
+}
+
+.buffer {
+  padding-top: 3vh;
+}
+
+.middle-image {
+  padding-top: 10em;
+}
+
+.job {
+  position: relative;
+  rotate: 90deg;
+  left: 13%;
+  top: -32%;
+}
+
+.job-middle {
+  position: relative;
+  rotate: 90deg;
+  left: 13%;
+  top: -45%;
+}
